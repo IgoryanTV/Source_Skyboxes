@@ -35,7 +35,7 @@ form,fieldset{
 	min-height:100%;
 	overflow:hidden;
 	position:relative;
-	background:url(images/background.png) repeat-y 50% 0;
+	background:url(Resources/Site/background.png) repeat-y 50% 0;
 	background-color: #D3E4EE;
 }
 .wrapper-holder{
@@ -322,7 +322,7 @@ width:15px;
 	overflow:hidden;
 	height:44px;
 	overflow:hidden;
-	background:url(images/Path_cover.png) repeat-x;
+	background:url(Resources/Site/Path_cover.png) repeat-x;
 	color:#ffffff
 }
 #nav{
@@ -356,7 +356,7 @@ width:15px;
 	bottom: 0;
 	left: 0;
 	text-align: center;
-	background:url(images/footer.png);
+	background:url(Resources/Site/footer.png);
 	background-color: #D3E4EE;
 }
 
@@ -366,11 +366,11 @@ width:15px;
 	padding:46px 20px 20px;
 	margin: 0 auto;
 	position:relative;
-	background: url(images/footer.png) repeat-x;
+	background: url(Resources/Site/footer.png) repeat-x;
 }
 
 .home .footer-holder{
-	background:url(images/footer-holder.png) no-repeat;
+	background:url(Resources/Site/footer-holder.png) no-repeat;
 }
 
 .footer-items{
